@@ -1,0 +1,307 @@
+body
+{
+   background-color: #00FFFF;
+   background-image: url(index_bkgrnd.png);
+
+      color: #000000;
+   font-family: Arial;
+   font-size: 24px;
+   
+   line-height: 5;
+   margin: 0;
+   padding: 0;
+   
+}
+#wb_Divider4
+{
+   background-color: #3D566E;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   position: relative;
+}
+#Divider4
+{
+   display: -webkit-flex;
+   display: flex;
+   position: relative;
+   padding: 25px 15px 25px 15px;
+   -webkit-flex-direction: row;
+   flex-direction: row;
+   -webkit-flex-wrap: nowrap;
+   flex-wrap: nowrap;
+   -webkit-justify-content: space-around;
+   justify-content: space-around;
+   -webkit-align-items: center;
+   align-items: center;
+   -webkit-align-content: flex-start;
+   align-content: flex-start;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-right: auto;
+   margin-left: auto;
+   max-width: 1024px;
+   box-sizing: border-box;
+   font-size: 0px;
+}
+#DividerLine5
+{
+   border-color: #1ABC9C;
+   border-style: dashed;
+   border-bottom-width: 3px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+   -webkit-flex-grow: 1;
+   flex-grow: 1;
+   -webkit-flex-shrink: 0;
+   flex-shrink: 0;
+   -webkit-align-self: auto;
+   align-self: auto;
+}
+#wb_Heading2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   -webkit-flex-grow: 0;
+   flex-grow: 0;
+   -webkit-flex-shrink: 0;
+   flex-shrink: 0;
+   -webkit-align-self: auto;
+   align-self: auto;
+}
+#Heading2
+{
+   color: #228237;
+   font-family: "Times New Roman";
+   font-weight: bold;
+   font-size: 54px;
+   margin: 0;
+   text-align: center;
+   
+
+}
+#DividerLine7
+{
+   border-color: #1ABC9C;
+   border-style: dashed;
+   border-bottom-width: 3px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+   -webkit-flex-grow: 1;
+   flex-grow: 1;
+   -webkit-flex-shrink: 0;
+   flex-shrink: 0;
+   -webkit-align-self: auto;
+   align-self: auto;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Shape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+  
+  
+}
+#wb_Text4 div
+{
+   text-align: left;
+   
+   
+}
+#wb_Image4
+{
+   vertical-align: top;
+}
+#Image4
+{
+   border: 2px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image5
+{
+   vertical-align: top;
+}
+#Image5
+{
+   border: 2px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image6
+{
+   vertical-align: top;
+}
+#Image6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Shape5
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape5
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape2
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape2
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Shape3
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape3
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Titel {
+   position: absolute;
+   text-align: center;
+   left: 400px;
+   top: 0px;
+   height: 200px;
+   width: 1000px;
+   font-size: 12px;
+   
+}
+#Text {
+   
+}
+#Text1 {
+   line-height: 150%;
+  padding: 0px ;
+   font-size: 24px;
+   margin: 5px;
+   color: rgb(5, 97, 60);
+   font-family: Bradley Hand, cursive;
+   
+}
+#link {
+   
+   line-height: 150%;
+  padding: 0px ;
+   font-size: 16px;
+   margin: 5px;
+   color: rgb(5, 97, 60);
+   font-family: Bradley Hand, cursive;
+}
