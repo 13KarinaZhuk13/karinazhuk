@@ -83,7 +83,7 @@ body
    color: #228237;
    font-family: "Times New Roman";
    font-weight: bold;
-   font-size: 54px;
+   font-size: 50px;
    margin: 0;
    text-align: center;
    
@@ -309,4 +309,16 @@ body
    margin: 5px;
    color: rgb(5, 97, 60);
    font-family: Bradley Hand, cursive;
+}
+
+#button {
+    background-color: white; /* Green */
+    border: solid 2px rgb(5, 97, 60);
+    color: rgb(5, 97, 60);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-family: Bradley Hand, cursive;
 }
